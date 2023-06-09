@@ -5,7 +5,7 @@ tagline: Trying is the first step to failure...
 email: sander@rutten.me
 description: >
   My personal website with some of my projects.
-baseurl: "/website-test"
+baseurl: ""
 url: "https://rutten.me"
 permalink: pretty
 #favicon: /path/to/favicon.png
