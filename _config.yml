@@ -8,15 +8,16 @@ description: >
 baseurl: ""
 url: "https://rutten.me"
 permalink: pretty
-#favicon: /path/to/favicon.png
+favicon: /assets/img/favicon.png
 #gh_sponsor: sanderrutten
 hide_share_buttons: true
 #theme_color: '#eeeeee'
 #fixed_navbar: top
 #direction: one of <ltr, rtl, auto>, default: ltr
 
-paginate: 5
-paginate_path: "/blog/page:num"
+paginate: 3
+#paginate_path: "/blog/page:num"
+paginate_path: "/page:num"
 
 # Disqus Comments
 #disqus:
