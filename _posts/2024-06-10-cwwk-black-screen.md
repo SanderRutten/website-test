@@ -20,7 +20,7 @@ image: /assets/img/2024/06/10/post_image.jpg
 
 ---
 
-## Migrating from Wordpress to Jekyll
+## CWWK/TopTon black screen 
 Recently I have bought a [CWWK X86 P5 SUPER Mini PC](https://cwwk.net/collections/frontpage/products/cwwk-x86-p5-super-mini-router-12th-gen-intel-n100-ddr5-4800mhz-firewall-pc-2x-i226-v-2-5g-lan-fanless-mini-pc) for my [OPNSense](https://opnsense.org) firewall.
 I bought the machine without storage and RAM, so I needed to provide my own.
 
